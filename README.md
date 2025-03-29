@@ -9,4 +9,4 @@ The notebook contains the following sections:
 4. Dimension Reduction. Reducing the embeddings dimension.
 5. Visualization. Representing  textual relationships in 2D and 3D spaces
 
-Detailled exploration of the process of transforming raw textual data into insightful visualizations is available at https://medium.com/@anis_aknouche/data-speaks-louder-when-we-can-see-it-2d-and-3d-textual-embedding-visualizations-08edff2f40e3.
+Detailed exploration of the process of transforming raw textual data into insightful visualizations is available at https://medium.com/@anis_aknouche/data-speaks-louder-when-we-can-see-it-2d-and-3d-textual-embedding-visualizations-08edff2f40e3.

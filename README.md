@@ -1,4 +1,4 @@
-# 2D-3D-Textual-Embeddings-Visulizations
+# 2D-3D-Textual-Embedding-Visulizations
 
 Text embeddings capture complex semantic relationships in high-dimensional spaces, making them challenging to interpret directly. By projecting these embeddings into 2D and 3D spaces, we gain several key benefits.
 
